@@ -1,4 +1,4 @@
-#### Basics of Pandas python library
+### Basics of Pandas python library
 =======
 
 1. Basic Dataframes Operations
@@ -10,23 +10,23 @@
     - Delete drop columns or extract columns from Dataframe [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/1.F drop or delete a column.ipynb)
 
 2. Manipulating Dataframe
-    - Iterate over a dataframe
-    - Apply function to dataframe row wise
-    - Apply function to a specific column of dataframe
-    - Find and replace a value in Dataframe
+    - Iterate over a dataframe [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/2.A Iterate over a dataframe.ipynb)
+    - Apply function to dataframe row wise [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/2.B Apply a function row wise.ipynb)
+    - Apply function to a specific column of dataframe [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/2.C Apply a function to a column.ipynb)
+    - Find and replace a value in Dataframe [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/2.D find and replace a value in DataFrame column.ipynb)
 
 3. Split and Merge Dataframes
-    - Merge dataframes by columns using join
-    - Merge dataframes by columns on index
-    - Merge dataframe and split again
-    - Group by a dataframe and iterate over grouped series
+    - Merge dataframes by columns using join [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/3.A Merge dataframes by joining columns.ipynb)
+    - Merge dataframes by columns on index [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/3.B merge dataframe by columns on index.ipynb)
+    - Merge dataframe and split again [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/3.C Merge two dataframes and split again.ipynb)
+    - Group by a dataframe and iterate over grouped series [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/3.D group by and interate.ipynb)
 
 4. Convert columns
-    - Get binary columns in a DataFrame
-    - Convert categorical columns to integer columns using label encoding
-    - Reduce high dimentionality from categorical column
-    - Convert categorical column to one hot encoded column
+    - Get binary columns in a DataFrame [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/4.A get binary or logical columns from dataframe.ipynb)
+    - Convert categorical columns to integer columns using label encoding [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/4.B Convert categorical columns to label encoded columns or integer column.ipynb)
+    - Reduce high dimentionality from categorical column [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/4.C reduce dimension of categorical column.ipynb)
+    - Convert categorical column to one hot encoded column [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/4.D Convert categorical columns to one hot encoded columns.ipynb)
 
 5. Split column
-    - Split column usiong a delimiter
-    - Split a column using delimter and one hot encode the values
+    - Split column usiong a delimiter [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/git add 5.A split a column into multiple columns based on delimiter.ipynb)
+    - Split a column using delimter and one hot encode the values [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/git add 5.B Split a column into multiple columns one hot encoding.ipynb)
