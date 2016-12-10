@@ -25,6 +25,7 @@
     - Get binary columns in a DataFrame
     - Convert categorical columns to integer columns using label encoding
     - Reduce high dimentionality from categorical column
+    - Convert categorical column to one hot encoded column
 
 5. Split column
     - Split column usiong a delimiter
