@@ -1,25 +1,31 @@
-Basics of Pandas python library
-Steps:
-1. Create a dataframe
-    - from a csv
-    - from a array
-    - from a dictionary
-    - specify a columns datatype
-2. manipulating data inside a dataframe
-    - columns
-        - add a column
-        - remove a column
-        - change a column data type
-        -
+#### Basics of Pandas python library
+=======
 
-dataframe
-    - get data frame head
-    - get dataframe tail
-    - get info on dataframe
-    - get description on dataframe
+1. Basic Dataframes Operations
+    - Create Dataframe from a dictionary
+    - Create Dataframe by inserting rows in an iterative way
+    - Create Dataframe from a csv file
+    - Change Dataframe column names
+    - Chose specific columns from a DataFrame
+    - Delete drop columns or extract columns from Dataframe
 
-3. Indexes
-    - get Index
-    - change Index
-    - update Index
-    - 
+2. Manipulating Dataframe
+    - Iterate over a dataframe
+    - Apply function to dataframe row wise
+    - Apply function to a specific column of dataframe
+    - Find and replace a value in Dataframe
+
+3. Split and Merge Dataframes
+    - Merge dataframes by columns using join
+    - Merge dataframes by columns on index
+    - Merge dataframe and split again
+    - Group by a dataframe and iterate over grouped series
+
+4. Convert columns
+    - Get binary columns in a DataFrame
+    - Convert categorical columns to integer columns using label encoding
+    - Reduce high dimentionality from categorical column
+
+5. Split column
+    - Split column usiong a delimiter
+    - Split a column using delimter and one hot encode the values
