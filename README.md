@@ -4,7 +4,7 @@
 1. Basic Dataframes Operations
     - Create Dataframe from a dictionary [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/1.A Create a dataframe from dictonary.ipynb)
     - Create Dataframe by inserting rows in an iterative way [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/1.B Create a dataframe by iterating and inserting rows .ipynb)
-    - Create Dataframe with randomly generated data [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/1.G Create a dataframe by iterating and inserting rows .ipynb)
+    - Create Dataframe with randomly generated data [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/1.G Create a dataframe with randomly generated data.ipynb)
     - Create Dataframe from a csv file [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/1.C Create dataframe from a csv file.ipynb)
     - Change Dataframe column names [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/1.D change column names.ipynb)
     - Chose specific columns from a DataFrame [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/1.E selecting columns or choosing columns.ipynb)
