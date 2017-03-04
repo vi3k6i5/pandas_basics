@@ -29,5 +29,8 @@
     - Convert categorical column to one hot encoded column [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/4.D Convert categorical columns to one hot encoded columns.ipynb)
 
 5. Split column
-    - Split column usiong a delimiter [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/git add 5.A split a column into multiple columns based on delimiter.ipynb)
-    - Split a column using delimter and one hot encode the values [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/git add 5.B Split a column into multiple columns one hot encoding.ipynb)
+    - Split column usiong a delimiter [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/5.A split a column into multiple columns based on delimiter.ipynb)
+    - Split a column using delimter and one hot encode the values [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/5.B Split a column into multiple columns one hot encoding.ipynb)
+    
+6. Adding capabilities to pandas.DataFrame class
+    - Extend pandas.DataFrame class to store additional value(s). [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/6.A extending dataframe capabilities)
