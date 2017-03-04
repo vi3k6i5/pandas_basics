@@ -33,4 +33,4 @@
     - Split a column using delimter and one hot encode the values [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/5.B Split a column into multiple columns one hot encoding.ipynb)
     
 6. Adding capabilities to pandas.DataFrame class
-    - Extend pandas.DataFrame class to store additional value(s). [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/6.A extending dataframe capabilities)
+    - Extend pandas.DataFrame class to store additional value(s). [Sample Notebook](https://github.com/vi3k6i5/pandas_basics/blob/master/6.A extending dataframe capabilities.ipynb)
